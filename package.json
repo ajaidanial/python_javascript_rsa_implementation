@@ -17,6 +17,7 @@
     },
     "homepage": "https://github.com/ajaidanial/python_javascript_rsa_implementaion#readme",
     "dependencies": {
-        "jsencrypt": "^3.0.0-rc.1"
+        "jsencrypt": "^3.0.0-rc.1",
+        "node-jsencrypt": "^1.0.0"
     }
 }
