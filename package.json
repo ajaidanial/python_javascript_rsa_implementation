@@ -1,0 +1,22 @@
+{
+    "name": "python_javascript_rsa_implementaion",
+    "version": "1.0.0",
+    "description": "A code base that explains the RSA algorithm's implementation using python and javascript.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ajaidanial/python_javascript_rsa_implementaion.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ajaidanial/python_javascript_rsa_implementaion/issues"
+    },
+    "homepage": "https://github.com/ajaidanial/python_javascript_rsa_implementaion#readme",
+    "dependencies": {
+        "jsencrypt": "^3.0.0-rc.1"
+    }
+}
